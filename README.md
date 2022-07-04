@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning **React**
 
 - 📫 How to reach me **turkyasarfurkan@gmail.com**
-- Personal Website = https://react-personal-portfolio-website.netlify.app/#
+- Personal Website https://react-personal-portfolio-website.netlify.app/#
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
