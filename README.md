@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Furkan Türkyaşar</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 
-- 🌱 I’m currently learning **React**, **React Native**, **Node js**, **Nextjs**
+- 🌱 I’m currently learning **React**, **React Native**, **Swift**
 
 - 📫 How to reach me **turkyasarfurkan@gmail.com**
 
